@@ -4,9 +4,7 @@ history of first person shooters at the Museum of Art and Digital Entertainment 
 
 This exhibit automates the startup of ITS and Mazewar and also creates 3 bots that wander the maze to provide targets to find and shoot. 
 
-Mazewar on PiDP-10
-
-To build from scratch:
+## To build from scratch:
 Start with a Raspberry Pi 4 or better
 Install 64 bit Raspberry Pi OS. Tested on Debian Bookworm based Raspberry Pi OS. Note - as of 1/7/26 Imlac does not work for me on Trixie unless you build it from source.
 Follow instructions to install https://github.com/obsolescence/pidp10
