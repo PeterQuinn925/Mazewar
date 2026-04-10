@@ -4,6 +4,9 @@ history of first person shooters at the Museum of Art and Digital Entertainment 
 
 This exhibit automates the startup of ITS and Mazewar and also creates 3 bots that wander the maze to provide targets to find and shoot. 
 
+<img src="https://github.com/user-attachments/assets/af2aa256-2be0-450c-951e-0f2db72b2919" width="300" height="300"/>
+<em>Credit: Veronica Sutter</em>
+
 ## To build from scratch:
 Start with a Raspberry Pi 4 or better
 
