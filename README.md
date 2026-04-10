@@ -1,11 +1,13 @@
+
 # Mazewar
 This repo contains the files and instructions for creating and running Mazewar on a Raspberry PI. It was created for an exhibit of the
-history of first person shooters at the Museum of Art and Digital Entertainment https://www.themade.org/. Mazewar runs the ITS operating system on a emulated Imlac Terminal and PDP-10 using the PiDP10/SimH emulator https://obsolescence.wixsite.com/obsolescence/pidp-11
-
-This exhibit automates the startup of ITS and Mazewar and also creates 3 bots that wander the maze to provide targets to find and shoot. 
-
+history of first person shooters at the Museum of Art and Digital Entertainment https://www.themade.org/. 
 <img src="https://github.com/user-attachments/assets/af2aa256-2be0-450c-951e-0f2db72b2919" width="300" height="300"/>
 <em>Credit: Veronica Sutter</em>
+
+Mazewar runs the ITS operating system on a emulated Imlac Terminal and PDP-10 using the PiDP10/SimH emulator https://obsolescence.wixsite.com/obsolescence/pidp-11
+![PXL_20260410_173936931](https://github.com/user-attachments/assets/84941c7b-171a-474b-a7f7-2c9f47cc5f8e)
+This exhibit automates the startup of ITS and Mazewar and also creates 3 bots that wander the maze to provide targets to find and shoot. 
 
 ## To build from scratch:
 Start with a Raspberry Pi 4 or better
